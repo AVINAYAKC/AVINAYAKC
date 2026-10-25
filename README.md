@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinayak-choudhary-0415141bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AVINAYAKC/AVINAYAKC/blob/main/Avinayak_Choudhary_CV.pdf"><img src="https://img.shields.io/badge/Download-Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <a href="mailto:abhinayakchoudhary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Gurugram%2C%20Delhi%20NCR-2E8B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-NCR%20%7C%20Remote-orange?style=for-the-badge"/>
